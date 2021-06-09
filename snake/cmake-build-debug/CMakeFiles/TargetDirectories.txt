@@ -1,0 +1,3 @@
+C:/Users/JIANG/Desktop/snake/cmake-build-debug/CMakeFiles/snake.dir
+C:/Users/JIANG/Desktop/snake/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/JIANG/Desktop/snake/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/JIANG/Desktop/snake/main.c
+stdio.h
+-
+time.h
+-
+windows.h
+-
+stdlib.h
+-
+math.h
+-
+tchar.h
+-
+
